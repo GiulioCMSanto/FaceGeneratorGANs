@@ -7,7 +7,9 @@ The project explores Deep Convolutional Generative Adversarial Networks (DCGANs)
 ### Files in this Repository
 
 dlnd_face_generation.ipynb: a Jupyter Notebook with all the code
+
 dlnd_face_generation.html: an html version of the Jupyter Notebook
+
 problem_unittests.py: tests provided by Udacity
 
 ### Used Libraries
